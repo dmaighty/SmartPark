@@ -1,0 +1,17 @@
+Meeting Type: Advisor
+Date: 2026-09-06
+Start–End Time: 8:00pm - 9:00pm
+Location/Mode: Zoom
+
+Attendees:
+- Reza Aghayari
+- Sarah Liang
+- Ripandeep Singh
+- Quan David Mai
+
+
+Accomplished During This Meeting
+- Presented Demo and Report to Advisor
+- Advisor recommended to show more technical details in deom
+- Advisor recommended to add more information in report. How things were done, tools used, way more images and plots
+- Add more to report so advisor can sign
